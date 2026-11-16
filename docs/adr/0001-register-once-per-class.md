@@ -1,6 +1,6 @@
 # Register once per class
 
-Students join a class once and can then work on multiple Classroom 50 assignments. Gitroll uses one shared registration link, one roster, and one Classroom 50 student team per class, so adding another assignment does not require a new registration.
+Students join a class once and can then work on multiple Classroom 50 assignments. Gitroll uses one shared registration link, one roster, and one Classroom 50 student team per class. Each account link belongs to the class and applies to all current and future assignments in that class.
 
 ## Consequences
 

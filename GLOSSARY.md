@@ -14,7 +14,7 @@ A student’s place on a class roster, shown by name and available for registrat
 The shared link a teacher gives students to open self-registration for a class.
 
 **Account link**:
-The association between a roster entry and a GitHub account selected through registration or corrected by a teacher.
+The association between one roster entry and one GitHub account within a class. The same association applies to every assignment in the class.
 
 **Organization invitation**:
 A GitHub invitation for an account to join the organization, with the class’s student team included when applicable. The account holder must accept it on GitHub.
@@ -24,6 +24,9 @@ The Classroom 50 GitHub team whose members are enrolled in the class.
 
 **Class membership**:
 An active membership in the class's student team. A student can be a class member without an account link on Gitroll's roster.
+
+**Access revocation**:
+A teacher's decision to withdraw an account's access through the student team of a specific class. The teacher must explicitly restore access before the account can rejoin through Gitroll.
 
 **Assignment**:
 An individual piece of coursework in Classroom 50 associated with a class.
